@@ -15,9 +15,9 @@
 package replaceresponse
 
 import (
-	"github.com/caddyserver/caddy/v2/caddyconfig/caddyfile"
-	"github.com/caddyserver/caddy/v2/caddyconfig/httpcaddyfile"
-	"github.com/caddyserver/caddy/v2/modules/caddyhttp"
+	"github.com/caddyserver/caddy/tree/v2.6.2/caddyconfig/caddyfile"
+	"github.com/caddyserver/caddy/tree/v2.6.2/caddyconfig/httpcaddyfile"
+	"github.com/caddyserver/caddy/tree/v2.6.2/modules/caddyhttp"
 )
 
 func init() {

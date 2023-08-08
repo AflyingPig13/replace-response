@@ -25,9 +25,9 @@ import (
 	"strconv"
 	"sync"
 
-	"github.com/caddyserver/caddy/v2"
-	"github.com/caddyserver/caddy/v2/caddyconfig/caddyfile"
-	"github.com/caddyserver/caddy/v2/modules/caddyhttp"
+	"github.com/caddyserver/caddy/tree/v2.6.2"
+	"github.com/caddyserver/caddy/tree/v2.6.2/caddyconfig/caddyfile"
+	"github.com/caddyserver/caddy/tree/v2.6.2/modules/caddyhttp"
 	"github.com/icholy/replace"
 	"golang.org/x/text/transform"
 )
